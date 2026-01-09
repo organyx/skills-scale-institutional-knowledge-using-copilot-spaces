@@ -7,18 +7,26 @@ Provide a concise, shareable introduction to how OctoAcme runs projects so new t
 Applies to all cross-functional projects that deliver product features, services, or integrations.
 
 ## Principles
-- Customer-first: prioritize customer value and usability.
-- Iterative delivery: deliver small, testable increments.
-- Clear ownership: each project has a named Project Manager (PM) and Product Lead.
-- Data-informed decisions: measure impact and iterate based on evidence.
-- Psychological safety: encourage feedback and learning.
+- **Customer-first**: prioritize customer value and usability.
+- **Iterative delivery**: deliver small, testable increments.
+- **Clear ownership**: each project has a named Project Manager (PM) and Product Lead.
+- **Data-informed decisions**: measure impact and iterate based on evidence.
+- **Psychological safety**: encourage feedback and learning.
+- **Cross-functional collaboration**: engage UX, security, DevOps, support, and data expertise from the start.
+- **Security by design**: integrate security reviews and best practices throughout the lifecycle.
+- **User-centered design**: validate with user research and feedback continuously.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
+- **Developers**: implement features, collaborate on design and testability.
+- **QA/Testing**: validate quality and acceptance criteria.
+- **UX Designer**: creates intuitive user experiences through research, design, and testing.
+- **DevOps Engineer**: builds CI/CD pipelines, manages infrastructure, ensures reliability.
+- **Data Analyst**: tracks metrics, conducts experiments, provides data-driven insights.
+- **Customer Support Lead**: manages support team, escalates issues, represents customer voice.
+- **Security Champion**: embeds security practices, conducts reviews, manages vulnerabilities.
+- **Stakeholders**: provide inputs and approvals.
 
 ## Key Artifacts
 - Project Charter / One-pager
