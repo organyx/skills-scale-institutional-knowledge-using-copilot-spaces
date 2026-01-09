@@ -20,18 +20,26 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Resource needs (team roles, rough effort estimate)
 
 ## Project One-pager Template
-- Project name:
-- Problem statement:
-- Objective / Goal (SMART):
-- Success metrics:
-- Primary stakeholders:
-- Suggested timeline / milestones:
-- Quick risks & dependencies:
-- Proposed team / roles:
+- **Project name**:
+- **Problem statement**:
+- **Objective / Goal (SMART)**:
+- **Success metrics**: (include user satisfaction, performance, and business KPIs)
+- **Primary stakeholders**:
+- **Suggested timeline / milestones**:
+- **Quick risks & dependencies**:
+- **Proposed team / roles**: (PM, PdM, Developers, QA, UX Designer, DevOps Engineer, Data Analyst, Customer Support Lead, Security Champion as needed)
+- **Security considerations**: (data sensitivity, compliance requirements, threat model needs)
+- **UX considerations**: (user research needs, accessibility requirements, design complexity)
+- **Support considerations**: (documentation needs, training requirements, customer communication plan)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Security review initiated if handling sensitive data or high-risk features
+- [ ] UX research plan outlined if new user-facing features
+- [ ] Support and documentation needs identified
+- [ ] Infrastructure and DevOps requirements assessed
+- [ ] Data tracking and analytics requirements defined
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
